@@ -116,7 +116,7 @@ public void move() {
     x += dx;
     y += dy;
 }
-The move() method changes the coordinates of the sprite. These x and y values are used in the paintComponent() method to draw the image of the sprite.
+The move() method changadsfadsfes the coordinates of the sprite. These x and y values are used in the paintComponent() method to draw the image of the sprite.
 if (key == KeyEvent.VK_LEFT) {
     dx = 0;
 }
